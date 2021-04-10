@@ -4,7 +4,7 @@
 
 ## 仕組み
 
-![](C:\Users\Zaha_99J\Desktop\search\explain1.jpeg)
+![](explain1.jpeg)
 
 ワードツリーにこれ以降の候補の数`childrenVolume`があり、この値が`1`の場合この時点で候補が1つに絞られていることを示す。
 
